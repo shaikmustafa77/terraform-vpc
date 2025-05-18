@@ -7,3 +7,5 @@ resource "aws_subnet" "public_subnet" {
     Name = "public_subnet"
   }
 }
+
+#new line
